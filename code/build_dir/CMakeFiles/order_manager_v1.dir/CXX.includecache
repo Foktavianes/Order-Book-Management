@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/main.cpp
+iostream
+-
+order_manager.h
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order_manager.h
+
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order.cpp
+order.h
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order.h
+
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order.h
+string
+-
+ostream
+-
+
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order_manager.h
+vector
+-
+order.h
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order.h
+
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order_manager_v1.cpp
+order_manager.h
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/order_manager.h
+algorithm
+-
+iostream
+-
+

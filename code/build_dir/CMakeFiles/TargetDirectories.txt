@@ -1,0 +1,4 @@
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/build_dir/CMakeFiles/edit_cache.dir
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/build_dir/CMakeFiles/order_manager_v2.dir
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/build_dir/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/fokta/Desktop/C++ Assignment 2/assignment2/code/build_dir/CMakeFiles/order_manager_v1.dir
